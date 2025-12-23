@@ -5,4 +5,4 @@ The project explores the Tiktok hashtag #sahm (Stay-At-Home-Mom) creator identit
 ## Contents
 * Niche Hashtag Research Project (.ipynb) contains the code that has been used to clean the raw data (remove all identifiable information of the users), filter the useful hashtags, identify all niche hashtags contained in the dataset, aggregate the hashtags data to post-level and creator-level for cluster analysis, and produce useful visualization for analysis.
 
-* Poster_final (.pdf) contains the final version of the poster produced.
+* Poster_Final (.pdf) contains the final version of the poster produced.
